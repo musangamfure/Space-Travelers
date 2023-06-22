@@ -82,7 +82,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
-To clone this repository on your machine run `https://github.com/misalazeem/space-travelers-react-capstone.git`
+To clone this repository on your machine run `https://github.com/musangamfureSpace-Travelers.git`
 
 <!--
 Example commands:
@@ -159,17 +159,17 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Misal Azeem**
-
-- GitHub: [@misalazeem](https://github.com/misalazeem)
-- Twitter: [@misal_azeem](https://twitter.com/misal_azeem)
-- LinkedIn: https://www.linkedin.com/in/misal-94755a82/
-
 👤 **Musangamfura Emmanuel**
 
 - [GitHub](https://github.com/musangamfure)
 - [Twitter](https://twitter.com/musangamfure)
 - [LinkedIn](https://www.linkedin.com/in/musangamfurae)
+
+👤 **Misal Azeem**
+
+- GitHub: [@misalazeem](https://github.com/misalazeem)
+- Twitter: [@misal_azeem](https://twitter.com/misal_azeem)
+- LinkedIn: https://www.linkedin.com/in/misal-94755a82/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
