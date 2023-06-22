@@ -1,0 +1,41 @@
+.profile-section {
+  display: flex;
+  margin: 5% 0;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.profile-missions {
+  width: 47%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.mission-table {
+  width: 100%;
+  padding: 20px 20px;
+  border: 1px solid #000;
+}
+
+.profile-rockets {
+  width: 47%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.profile-rows {
+  border: none !important;
+  border-bottom: 1px solid #000 !important;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.profile-columns {
+  border: none !important;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

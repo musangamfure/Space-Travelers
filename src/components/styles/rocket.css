@@ -1,0 +1,56 @@
+.rocket-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5% 0;
+}
+
+.rocket {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.rocket-image {
+  width: 25%;
+}
+
+.rocket-details {
+  width: 73%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.rocket-details h2 {
+  margin: 0;
+}
+
+.rocket-button {
+  background-color: #0290ff;
+  color: #fff;
+  padding: 10px 10px;
+  outline: none;
+  border: 1px solid #0290ff;
+  border-radius: 5px;
+}
+
+.rocket-button-cancel {
+  background-color: #fff;
+  color: #000;
+  padding: 10px 10px;
+  outline: none;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+.reserved-span {
+  background-color: #1693a7;
+  border-radius: 3px;
+  color: #fff;
+  padding: 2px;
+  margin-right: 3px;
+}

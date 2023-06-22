@@ -1,0 +1,62 @@
+.container {
+  width: 100%;
+  margin-top: 5%;
+  box-sizing: border-box;
+  padding: 15px;
+}
+
+.mission {
+  box-sizing: border-box;
+}
+
+.mission:nth-child(even) {
+  background-color: #f3f3f3;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+.btn-width {
+  width: 8rem;
+  background-color: #a9a9a9;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  padding: 5px 3px;
+  color: #fff;
+}
+
+.btn-join {
+  width: 8rem;
+  background-color: transparent;
+  border-radius: 5px;
+  padding: 10px 3px;
+  border: 1px solid #000;
+  color: #000;
+}
+
+.btn-leave {
+  width: 8rem;
+  background-color: transparent;
+  border-radius: 5px;
+  padding: 10px 3px;
+  border: 1px solid red;
+  color: red;
+}
+
+.btn-width-joined {
+  width: 8rem;
+  background-color: green;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  padding: 5px 3px;
+  color: #fff;
+}
